@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente estou trabalhando na **Paschoalotto**
 - 🌱 Atualmente estou aprendendo **React**
-- 💬 Ask me about ...
 - 📫 Como entrar em contato comigo: <br>
 <div>
 <a style="margin" href="https://instagram.com/pedro.llma/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
