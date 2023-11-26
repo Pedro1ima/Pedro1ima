@@ -1,7 +1,7 @@
 # Hello! I'm Pedro Lima 👋
 ## Welcome to my Github profile.
 
-- Computer Science student at Unisagrado University. 🏛️
+- Computer Science student at **Unisagrado University**. 🏛️
 - I’m currently learning **React**. 
 - Passionate about web development
 
