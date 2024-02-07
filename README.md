@@ -2,8 +2,7 @@
 ## Welcome to my Github profile.
 
 - Computer Science student at **Unisagrado University**. 🏛️
-- I’m currently learning **React**. 
-- Passionate about web development
+- I’m currently learning **Python**. 
 
 <br>
 <div>
