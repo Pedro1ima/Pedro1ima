@@ -1,6 +1,7 @@
 # Hello! I'm Pedro Lima 👋
 ## Welcome to my Github profile.
 
+- Acting as an investment advisor 💰
 - Computer Science student at **Unisagrado University**. 🏛️
 - I’m currently learning **Python**. 
 
